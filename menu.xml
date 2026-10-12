@@ -18,6 +18,12 @@
             </menuitem>
         </menu>
     </menuitem>
+
+    <menuitem label='Categorias'>
+        <icon>fa:table-list fa-fw</icon>
+            <action>CategoriaList</action>
+    </menuitem>
+        
     <menuitem label='Configuração'>
         <icon>fa:cog fa-fw</icon>
         <menu>
@@ -32,4 +38,5 @@
             </menuitem>
         </menu>
     </menuitem>
+    
 </menu>
