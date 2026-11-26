@@ -23,6 +23,16 @@
         <icon>fa:table-list fa-fw</icon>
             <action>CategoriaList</action>
     </menuitem>
+
+    <menuitem label='Teste de Datagrid'>
+        <icon>fa:table-list fa-fw</icon>
+            <action>TesteDatagrid</action>
+    </menuitem>
+
+    <menuitem label='Documentos'>
+        <icon>fa:file</icon>
+            <action>DocumentosList</action>
+    </menuitem>    
         
     <menuitem label='Configuração'>
         <icon>fa:cog fa-fw</icon>

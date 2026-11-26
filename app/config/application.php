@@ -6,7 +6,7 @@ return [
         'application' => 'sample',
         'title' => 'FinControl',
         'theme' => 'adminbs5',
-        'debug' => '1',
+        'debug' => '0',
         'strict_request' => '0'
     ],
     'template' => [
